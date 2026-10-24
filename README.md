@@ -85,3 +85,7 @@ reason, and the program exits with a non-zero status.
 With `-i`, the chain count comes straight from the file size (one 8-byte code
 per chain) and the target primes are reconstructed from that count — so you can
 validate any `Lchain_codes.dat` without remembering which `B1` produced it.
+
+## Verifying output
+
+Yes, this is vibe coded.

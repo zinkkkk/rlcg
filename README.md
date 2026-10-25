@@ -51,6 +51,13 @@ rlcg -i
 
 # Limit to 8 worker threads
 rlcg -b 1000000 -t 8
+
+# Example usage
+./rlcg -b 1000000
+Using 16 worker threads.
+Generating prime targets up to 1000000...
+Found 78494 target primes.
+⠂ [00:00:01] [██████████████████████████████░░░░░░░░░░] 59455/78494 primes solved    
 ```
 
 ## Output
